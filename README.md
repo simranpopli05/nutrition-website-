@@ -132,8 +132,7 @@ EXPOSE 3000
 
 CMD ["npm","run","dev"]
 ```
-NOW,
-we have to follow same steps as we done in backend  
+### NOW,we have to follow same steps as we done in backend.
 
 
 
